@@ -2,6 +2,6 @@
 
 ~09.22 트랜스포머
 
-~09.24 ELECTRA
+~09.24 Ko-ELECTRA
 
 다음 할 것 :  wandb sweep, huggingface tutorial, bert, roberta , albert , 
